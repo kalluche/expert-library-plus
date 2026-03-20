@@ -10,23 +10,24 @@
 ## 🚀 发布步骤
 
 ### 1. ClawHub 发布 (OpenClaw 官方技能市场)
-- [ ] 验证 `expert-library-plus-skill/` 目录结构
-- [ ] 运行 `clawhub login` (首次需要)
-- [ ] 执行 `clawhub publish expert-library-plus-skill`
-- [ ] 验证 https://clawhub.ai 能搜索到技能
-- [ ] 测试 `clawhub install expert-library-plus` 安装
+- [x] 验证 `expert-library-plus-skill/` 目录结构
+- [x] 运行 `clawhub login` (首次需要)
+- [x] 执行 `clawhub publish expert-library-plus-skill`
+- [x] 验证 https://clawhub.ai 能搜索到技能
+- [x] 测试 `clawhub install expert-library-plus` 安装
 
 ### 2. GitHub 发布 (开源项目)
-- [ ] 创建新仓库 `expert-library-plus`
-- [ ] 推送 `final_output/` 内容（不含技能目录）
-- [ ] 配置 Issues 模板和贡献指南
-- [ ] 添加 README 徽章和 star 数统计
-- [ ] 设置 CI/CD 和自动化测试（可选）
+- [x] 创建新仓库 `expert-library-plus`
+- [x] 推送 `final_output/` 内容（包含完整的双语 README）
+- [x] 配置 Issues 模板和贡献指南
+- [x] 添加 README 徽章和 star 数统计
+- [x] 设置 CI/CD 和自动化测试（可选）
 
-### 3. Claude Skills 用户指南 (文档集成)
-- [ ] 在 README 中添加 "Claude Skills 用户集成指南"
-- [ ] 提供手动集成步骤和最佳实践
-- [ ] 说明如何将 name 库与现有 Claude Skills 结合使用
+### 3. 双语 README 优化
+- [x] 合并中英文内容到单一 README.md
+- [x] 采用中文一行、英文一行的格式
+- [x] 移除单独的 README-zh.md 和 README-en.md
+- [x] 确保 GitHub 主页显示完整内容
 
 ## 🔧 各平台特定要求
 
