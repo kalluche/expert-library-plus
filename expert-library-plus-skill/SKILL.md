@@ -1,10 +1,12 @@
 ---
 name: expert-library-plus
+version: 1.0.0
 description: >
   Install and manage the Expert Library Plus - an AI expert library system that uses 
   "names as quality anchors" to enhance task execution quality. Provides 43+ professional 
   experts with name-based quality enhancement for historical figures like Steve Jobs, 
   John Resig, and other verified successful individuals.
+license: MIT-0
 ---
 
 # Expert Library Plus Installer & Manager
