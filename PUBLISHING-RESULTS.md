@@ -81,7 +81,6 @@ expert-library-plus/
 - **社区支持**: 监控 Issues 和 PRs
 - **功能迭代**: 基于用户反馈持续改进
 - **研究验证**: 鼓励用户进行 A/B 测试验证效果
-- **GitHub Token**: 已生成并保存到 `~/.openclaw/github-token`
 
 ## 📋 待办事项
 
