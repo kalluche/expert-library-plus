@@ -1,11 +1,12 @@
 {
   "name": "expert-library-plus",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Expert Library Plus - AI expert library with name-based quality anchors",
   "author": "Qwen 3.5 Plus + Qwen-Max + DeepSeek + Gemini",
-  "license": "MIT",
-  "repository": "https://github.com/your-username/expert-library-plus",
-  "keywords": ["expert", "library", "quality", "anchor", "name", "persona"],
+  "license": "MIT-0",
+  "repository": "https://github.com/kalluche/expert-library-plus",
+  "homepage": "https://github.com/kalluche/expert-library-plus",
+  "keywords": ["expert", "library", "quality", "anchor", "name", "persona", "claude-skills", "openclaw"],
   "categories": ["productivity", "development", "ai"],
   "compatibility": {
     "openclaw": ">=2026.2.0"
